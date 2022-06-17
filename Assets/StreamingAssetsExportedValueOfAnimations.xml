@@ -1,0 +1,27 @@
+<AnimationsData>
+  <Animation-0>
+    <AnimationName>180Jump</AnimationName>
+    <AnimationSpeed>1.0</AnimationSpeed>
+    <Is90DegRotation>False</Is90DegRotation>
+  </Animation-0>
+  <Animation-1>
+    <AnimationName>JumpingJack</AnimationName>
+    <AnimationSpeed>1.0</AnimationSpeed>
+    <Is90DegRotation>False</Is90DegRotation>
+  </Animation-1>
+  <Animation-2>
+    <AnimationName>RunningLunge</AnimationName>
+    <AnimationSpeed>1.0</AnimationSpeed>
+    <Is90DegRotation>False</Is90DegRotation>
+  </Animation-2>
+  <Animation-3>
+    <AnimationName>FastFeet</AnimationName>
+    <AnimationSpeed>1.0</AnimationSpeed>
+    <Is90DegRotation>False</Is90DegRotation>
+  </Animation-3>
+  <Animation-4>
+    <AnimationName>CrossOverJack</AnimationName>
+    <AnimationSpeed>0.0</AnimationSpeed>
+    <Is90DegRotation>False</Is90DegRotation>
+  </Animation-4>
+</AnimationsData>

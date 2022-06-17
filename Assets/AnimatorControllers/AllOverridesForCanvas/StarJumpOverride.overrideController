@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StarJumpOverride
+  m_Controller: {fileID: 9100000, guid: 7a59629cd8448744a9e596e359980d5e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 4fe2b33233b18e946af83d5f6f76c96f, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 0635050ff4065b449b0c9712a28f8288, type: 3}

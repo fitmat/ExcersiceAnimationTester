@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95526e2700179804ab86039d18aee2b7, type: 3}
+  m_Name: AnimationClipHolder
+  m_EditorClassIdentifier: 
+  animationClips:
+  - animationName: 180 Jump
+    animationOverridePerClip: {fileID: 22100000, guid: ef804278e10a6aa45b3d950ea13697f1, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Arm stretching
+    animationOverridePerClip: {fileID: 22100000, guid: 6bfeddf2fa83faa41bf99df2406fb967, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Plank
+    animationOverridePerClip: {fileID: 22100000, guid: b97844035b7abfe4895b1edc0ddc7548, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Burpee
+    animationOverridePerClip: {fileID: 22100000, guid: 18ac03e3b8f5bbf438b5e29f9417404e, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Chest Jump
+    animationOverridePerClip: {fileID: 22100000, guid: 091a60c276bca624bb538627b17ade24, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Diagonal Jump
+    animationOverridePerClip: {fileID: 22100000, guid: eccb40874c633004d9f81eafcab107f7, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Jumping Jack
+    animationOverridePerClip: {fileID: 22100000, guid: 822390808c5e9d341a59d59c11384330, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Jump
+    animationOverridePerClip: {fileID: 22100000, guid: 852dd0ad7c502d44bb23437ff9c504ca, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Mountain Climbing
+    animationOverridePerClip: {fileID: 22100000, guid: a6358dc27a7a0e74b86c8908ad7431b8, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Nect Stretch
+    animationOverridePerClip: {fileID: 22100000, guid: b3624bd01fbe82a42a3923fb774aafe8, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Running
+    animationOverridePerClip: {fileID: 22100000, guid: 9d97e4d4112430447bbd10c9c6f03ac3, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Skier Jack
+    animationOverridePerClip: {fileID: 22100000, guid: 43ef2bf21b019f4428d31e5346e2c37b, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Standing Hamstring
+    animationOverridePerClip: {fileID: 22100000, guid: ec4f6753b4893ee4dbf695ef9ef290e7, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Star Jump
+    animationOverridePerClip: {fileID: 22100000, guid: bd55ff325cf2c4c4187ada97d4e400de, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: 180 Squat
+    animationOverridePerClip: {fileID: 22100000, guid: ba9f7d2a6f872b24fae6bbaeaf650f67, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Aeroplane Pose
+    animationOverridePerClip: {fileID: 22100000, guid: 9563932b901854a4f9c2938be6d18299, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Arm and shoulder stretch
+    animationOverridePerClip: {fileID: 22100000, guid: f1ff368a5244c77499989f5d2a9b2f08, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Arm circles
+    animationOverridePerClip: {fileID: 22100000, guid: 3c6996269db2629468d3496969519727, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Cross Over Jack
+    animationOverridePerClip: {fileID: 22100000, guid: 87362bb8e843da241b9380b7bf52e413, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Curtsey Lunge
+    animationOverridePerClip: {fileID: 22100000, guid: 77a47aa1cc8d86b4eab40b1043d6ac17, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Fast Feet
+    animationOverridePerClip: {fileID: 22100000, guid: b9f80f1f29925244294f538c52d83e6a, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Forward Jump
+    animationOverridePerClip: {fileID: 22100000, guid: a9e835915d756d54a9570b79b67086ea, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Forward Lunge
+    animationOverridePerClip: {fileID: 22100000, guid: cc0aada53714d0f4f84af4162a1df332, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: High Knee Run
+    animationOverridePerClip: {fileID: 22100000, guid: 9c108935baa3a144b8b0e0afd448e2f6, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Lateral Squat Jump
+    animationOverridePerClip: {fileID: 22100000, guid: 5b636e887ebbff94493532522203bf04, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Lunge Pile
+    animationOverridePerClip: {fileID: 22100000, guid: ef2969eb4e1f08640acbba52463a4cf3, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Running Lunge
+    animationOverridePerClip: {fileID: 22100000, guid: 869d16190c73c3b44be73cb4f8f5a942, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Oblique Jack
+    animationOverridePerClip: {fileID: 22100000, guid: fc1451a30b17fba4b8ff2885ecd67fc7, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Quick step Jump
+    animationOverridePerClip: {fileID: 22100000, guid: 0e92f6f7df7fcc5448fa495b0377c88a, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Rear Lunge Chest
+    animationOverridePerClip: {fileID: 22100000, guid: 484b857beb4e11245b6518bb46375856, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Rear Lunge
+    animationOverridePerClip: {fileID: 22100000, guid: b73cd22197442b84686114d4433d8ac2, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Side wise Jump
+    animationOverridePerClip: {fileID: 22100000, guid: d4a2e62b19e420a449659b8e6a8bc16a, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Bend and reach
+    animationOverridePerClip: {fileID: 22100000, guid: f26756a5b7ff28b4bb2cc07f0b7ff019, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Bending windmill
+    animationOverridePerClip: {fileID: 22100000, guid: d98ccd52e34c43d46a37e3f238afc993, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Cat and cow
+    animationOverridePerClip: {fileID: 22100000, guid: 4456dd38640ee81408a788040383d106, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Child Pose
+    animationOverridePerClip: {fileID: 22100000, guid: c2966ead5192a8a49aaedb838c9d0d78, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Hip Circle
+    animationOverridePerClip: {fileID: 22100000, guid: a674dff3e93626142ae3f02ab19b6173, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Hip flexor
+    animationOverridePerClip: {fileID: 22100000, guid: 7e255303a8f3be1489d457569dc6423f, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Lower back
+    animationOverridePerClip: {fileID: 22100000, guid: 62ded9829faf7804b86495dc4eed869a, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Neck stretch
+    animationOverridePerClip: {fileID: 22100000, guid: 31ff040af2459874d8de00b2890267ff, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Overhead arm pull
+    animationOverridePerClip: {fileID: 22100000, guid: bb39508203fabef4994a6130e08873d1, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Quadracep stretch
+    animationOverridePerClip: {fileID: 22100000, guid: ea34be5ed560abb48b1825e04e29eeb7, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Shoulder roll
+    animationOverridePerClip: {fileID: 22100000, guid: 241747a7c089622489148fb382a30db1, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Side stretch
+    animationOverridePerClip: {fileID: 22100000, guid: 11c388f40dc1b084db87674ac1b552d7, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Single leg hamstring
+    animationOverridePerClip: {fileID: 22100000, guid: 21007e8afa44c40459cddb3adf76cc89, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
+  - animationName: Slow march walk
+    animationOverridePerClip: {fileID: 22100000, guid: 33285708825e6084a80f5143eef8ea89, type: 2}
+    speed: 1
+    turnModelTo90Deg: 0
